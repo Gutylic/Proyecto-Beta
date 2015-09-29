@@ -1,0 +1,89 @@
+﻿.encabezado_panel.panel-heading.fondo {
+    height: 30px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: -1px;
+}
+
+label.col-xs-8.control-label.formulario {
+    font-size: 10px;
+}
+
+span.valor {
+    font-size: 10px;
+}
+
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 35px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 15px;
+    } 
+     
+label.col-xs-8.control-label.formulario {
+    font-size: 12px;
+}
+
+span.valor {
+    font-size: 12px;
+}
+
+}
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+.encabezado_panel.panel-heading.fondo {
+    height: 40px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 17px;
+    } 
+     
+label.col-xs-8.control-label.formulario {
+    font-size: 14px;
+}
+
+span.valor {
+    font-size: 14px;
+}
+
+}
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 45px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 20px;
+    }  
+
+label.col-xs-8.control-label.formulario {
+    font-size: 16px;
+}
+
+span.valor {
+    font-size: 16px;
+}
+
+}

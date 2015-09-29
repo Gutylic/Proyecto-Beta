@@ -1,0 +1,139 @@
+﻿h2.datos_del_administrador {
+        font-size: 12px;
+        margin-top: -1px;
+    }
+
+.encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 30px;
+    }
+
+
+
+.gridview {
+        font-size:10px;
+    }
+
+
+
+.cuerpo_del_panel {
+        padding: 0px;
+    }
+
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    #Usuario_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Comentarios_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Correo_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+.formulario {
+    margin-top:5px;
+
+}
+
+th {
+        text-align: center;
+        padding: 1px;
+        font-weight: normal;
+    }
+
+h6.pie {
+        margin-top: -10px;
+    }
+
+
+
+
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 35px;
+    }
+
+
+    .gridview {
+        font-size:12px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    
+}
+
+
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+
+     h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+     .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 40px;
+    }
+
+     .gridview {
+        font-size:14px;
+    }
+
+    
+}
+
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+
+    h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 7px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 45px;
+    }
+
+    .gridview {
+        font-size:16px;
+    }
+
+    
+}

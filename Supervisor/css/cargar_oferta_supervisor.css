@@ -1,0 +1,82 @@
+﻿h4.datos_del_administrador {
+    font-size: 12px;
+    text-align: center;
+}
+
+.encabezado_panel.panel-heading.fondo {
+    height: 43px;
+    padding-top: 5px;
+}
+
+label.control-label.formulario {
+    font-size: 12px;
+}
+
+h5.col-xs-12.control-label.formulario_cantidad {
+    font-size: 9px;
+}
+
+.pie_formulario {
+        height: 40px;
+    }
+
+.btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+
+@media(min-width:768px) {
+    h4.datos_del_administrador {
+        font-size: 14px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        height: 50px;
+    }
+
+    label.control-label.formulario {
+        font-size: 14px;
+    }
+
+    .btn_formulario {        
+        font-size: 12px;
+        
+    }
+}
+
+@media(min-width:992px) {
+h4.datos_del_administrador {
+        font-size: 16px;
+        padding-top: 5px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        height: 55px;
+    }
+
+    label.control-label.formulario {
+        font-size: 16px;
+    }
+
+    .btn_formulario {        
+        font-size: 14px;
+        
+    }
+}
+
+@media(min-width:1200px) {
+    h4.datos_del_administrador {
+        font-size: 18px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        height: 60px;
+    }
+
+    .btn_formulario {        
+        font-size: 16px;
+        
+    }
+}

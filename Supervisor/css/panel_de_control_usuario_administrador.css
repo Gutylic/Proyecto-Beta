@@ -1,0 +1,300 @@
+﻿h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+
+.encabezado_panel.panel-heading.fondo {
+    height: 90px;
+    text-align: center;
+
+}
+
+select#DropDownList_Administrador {
+    height: 26px;
+    width: 100%;
+    font-size: 10px;
+
+}
+
+.col-xs-3.administrador {
+    margin-top: -7px;
+    width: 35%;
+    margin-left: -12px;
+}
+
+input#Buscar_Administrador {
+    height: 26px;
+    width: 100%;
+    font-size: 10px;
+    padding-left: 5px;
+
+}
+
+.col-xs-6.buscar_administrador {
+    margin-top: -7px;
+    width: 45%;
+}
+
+input#Boton_Buscar_Administrador {
+    font-size: 10px;
+    width: 100%;
+    padding-left: 8px;
+    height: 26px
+
+}
+
+.col-xs-3.boton_buscar_administrador {
+    margin-top: -7px;
+    width: 20%;
+    padding-right: 1px;
+    padding-left: 1px;
+}
+
+hr {
+    margin-top:0px;    
+}
+
+h4 {
+    font-size:10px;
+}
+
+span#Usuario_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Correo_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Skype_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Celular_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Modelo_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Credito_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+
+.col-xs-7.prestamo_administrador {
+    padding-top: 7px;
+}
+
+.col-xs-7.activacion_administrador {
+    padding-top: 7px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+h2.datos_del_administrador {
+    font-size: 15px;
+}
+
+select#DropDownList_Administrador {
+    font-size: 12px;
+    height: 30px;
+    margin-top: -3px;
+}
+
+input#Buscar_Administrador {
+    font-size: 12px;
+    height: 30px;
+    margin-top: -3px;
+}
+
+
+input#Boton_Buscar_Administrador {
+    font-size: 12px;
+    height: 30px;
+    margin-top: -3px;
+}
+
+h4 {
+    font-size: 12px;
+}
+
+span#Usuario_Administrador {
+    font-size: 12px;
+}
+
+span#Correo_Administrador {
+    font-size: 12px;
+}
+
+span#Skype_Administrador {
+    font-size: 12px;
+}
+
+span#Celular_Administrador {
+    font-size: 12px;
+}
+
+span#Modelo_Administrador {
+    font-size: 12px;
+}
+
+span#Credito_Administrador {
+    font-size: 12px;
+}
+
+
+}
+
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+
+
+h2.datos_del_administrador {
+    font-size: 17px;
+}
+
+select#DropDownList_Administrador {
+    font-size: 14px;
+    height: 33px;
+    margin-top: -5px;
+}
+
+input#Buscar_Administrador {
+    font-size: 14px;
+    height: 33px;
+    margin-top: -5px;
+}
+
+
+input#Boton_Buscar_Administrador {
+    font-size: 14px;
+    height: 33px;
+    margin-top: -5px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+span#Usuario_Administrador {
+    font-size: 14px;
+}
+
+span#Correo_Administrador {
+    font-size: 14px;
+}
+
+span#Skype_Administrador {
+    font-size: 14px;
+}
+
+span#Celular_Administrador {
+    font-size: 14px;
+}
+
+span#Modelo_Administrador {
+    font-size: 14px;
+}
+
+span#Credito_Administrador {
+    font-size: 14px;
+}
+
+input#CheckBox_Prestamo_Administrador {
+    height: 18px;
+}
+
+input#CheckBox_Activacion_Administrador {
+    height: 18px;
+}
+
+}
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+    h2.datos_del_administrador {
+    font-size: 19px;
+}
+
+select#DropDownList_Administrador {
+    font-size: 16px;
+    height: 35px;
+    margin-top: -7px;
+}
+
+input#Buscar_Administrador {
+    font-size: 16px;
+    height: 35px;
+    margin-top: -7px;
+}
+
+
+input#Boton_Buscar_Administrador {
+    font-size: 16px;
+    height: 35px;
+    margin-top: -7px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+span#Usuario_Administrador {
+    font-size: 16px;
+}
+
+span#Correo_Administrador {
+    font-size: 16px;
+}
+
+span#Skype_Administrador {
+    font-size: 16px;
+}
+
+span#Celular_Administrador {
+    font-size: 16px;
+
+}
+
+span#Modelo_Administrador {
+    font-size: 16px;
+}
+
+span#Credito_Administrador {
+    font-size: 16px;
+}
+
+input#CheckBox_Prestamo_Administrador {
+    height: 19px;
+    width: 19px;
+}
+
+input#CheckBox_Activacion_Administrador {
+    height: 19px;
+    width: 19px;
+}
+
+
+}

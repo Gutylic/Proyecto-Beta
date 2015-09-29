@@ -1,0 +1,50 @@
+﻿#Nik_Del_Administrador {
+    height: 25px;
+    padding-left:3px;
+}
+
+input#Boton_De_Buscar {
+    height: 25px;
+    font-size: 10px;
+    padding: 0px;
+}
+
+input#Boton_De_Actualizar {
+    padding: 0px;
+    height: 25px;
+    font-size: 10px;
+}
+
+
+h6.pie {
+    margin-top: -10px;
+}
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+    #Nik_Del_Administrador {
+    height: 36px;
+    padding-left:3px;
+}
+
+input#Boton_De_Buscar {
+    height: 36px;
+    font-size: 14px;
+    padding: 0px;
+}
+
+input#Boton_De_Actualizar {
+    padding: 0px;
+    height: 36px;
+    font-size: 14px;
+}
+
+.primero {
+    padding-bottom: 32px;
+    padding-top: 32px;
+}
+
+
+}

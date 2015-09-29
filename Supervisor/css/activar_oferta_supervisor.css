@@ -1,0 +1,103 @@
+﻿.encabezado_panel.panel-heading.fondo {
+    height: 30px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: -1px;
+}
+
+.panel-body {
+    font-size: 10px;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+
+.btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+
+.pie_formulario {
+        height: 40px;
+    }
+
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 35px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 15px;
+    } 
+     
+.panel-body {
+    font-size: 12px;
+}
+
+.btn_formulario {        
+        font-size: 12px;
+        
+    }
+
+}
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+.encabezado_panel.panel-heading.fondo {
+    height: 40px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 17px;
+    } 
+     
+.panel-body {
+    font-size: 15px;
+}
+
+.btn_formulario {        
+        font-size: 14px;
+        
+    }
+
+}
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 45px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 20px;
+    }  
+
+    .panel-body {
+    font-size: 17px;
+}
+
+.btn_formulario {        
+        font-size: 15px;
+        
+    }
+
+}

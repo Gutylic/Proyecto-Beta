@@ -1,0 +1,123 @@
+﻿h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: -1px;
+}
+
+.fondo {
+    height:30px;
+}
+
+
+input#Numero_de_Ejercicio {
+    height: 25px;
+    padding-left:3px;
+    font-size:10px;
+}
+
+input#Boton_Ejercicio {
+    height: 25px;
+    font-size: 10px;   
+    padding-top:5px;
+}
+
+textarea#Palabras_Claves {
+    height: 25px;
+    padding-left:3px;
+    font-size:10px;
+    padding-top:5px;
+}
+
+input#Boton_Videos {
+    height: 25px;
+    font-size: 10px;   
+    padding-top:5px;
+}
+
+
+h6.pie {
+    margin-top: -10px;
+}
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+    h2.datos_del_administrador {
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.fondo {
+    height:40px;
+}
+
+
+input#Numero_de_Ejercicio {
+    height: 30px;
+    padding-left:3px;
+    font-size:12px;
+}
+
+input#Boton_Ejercicio {
+    height: 30px;
+    font-size: 12px;   
+    padding-top:6px;
+}
+
+textarea#Palabras_Claves {
+    height: 30px;
+    padding-left:3px;
+    font-size:12px;
+    padding-top:7px;
+}
+
+input#Boton_Videos {
+    height: 30px;
+    font-size: 12px;   
+    padding-top:6px;
+}
+
+}
+
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+
+    h2.datos_del_administrador {
+    font-size: 16px;
+    margin-top: 3px;
+}
+
+.fondo {
+    height:40px;
+}
+
+
+input#Numero_de_Ejercicio {
+    height: 34px;
+    padding-left:3px;
+    font-size:14px;
+}
+
+input#Boton_Ejercicio {
+    height: 35px;
+    font-size: 14px;   
+    padding-top:6px;
+}
+
+textarea#Palabras_Claves {
+    height: 35px;
+    padding-left:3px;
+    font-size:14px;
+    padding-top:9px;
+}
+
+input#Boton_Videos {
+    height: 35px;
+    font-size: 14px;   
+    padding-top:6px;
+}
+
+}

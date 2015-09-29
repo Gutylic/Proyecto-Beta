@@ -1,0 +1,271 @@
+﻿.boton_excel {
+        height: 25px;
+        margin-top: -17px;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    .fondo_excel {
+        height: 40px;
+    }
+
+    .formulario {
+    margin-bottom: 5px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 12px;
+        margin-top: -1px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 28px;
+    }
+
+    hr {
+        margin-top: -5px;
+        margin-bottom: 5px;
+    }
+
+    #Buscar_Dios {
+        height: 25px;
+        padding-left: 2px;
+        font-size: 12px;
+    }
+
+    #Boton_Buscar_Dios {
+        height: 25px;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    .gridview {
+        font-size:10px;
+    }
+
+    th {
+        text-align: center;
+        padding: 1px;
+        font-weight: normal;
+    }
+
+    .cuerpo_del_panel {
+        padding: 0px;
+    }
+
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Dios {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Password_Dios {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #IP_Dios {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    .bloqueado {
+        height: 25px;
+    }
+
+
+
+    #CheckBox_Bloqueo_Dios {
+        margin-top: -7px;
+        margin-left: 0px;
+    }
+
+    .pie_formulario {
+        height: 40px;
+    }
+
+    .btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+
+    h6.pie {
+        margin-top: -10px;
+    }
+
+    select#DropDownList_Dios {
+    height: 25px;
+    }
+
+@media(min-width:768px) {
+
+    .boton_excel {
+        height: 30px;
+        margin-top: -10px;
+        font-size: 15px;
+        padding-top: 3px;
+    }
+
+    .fondo_excel {
+        height: 50px;
+    }
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 30px;
+    }
+
+    hr {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    select#DropDownList_Dios {
+    height: 30px;
+    }
+
+     #Buscar_Dios {
+        height: 30px;
+        padding-left: 3px;
+        font-size: 13px;
+    }
+
+    #Boton_Buscar_Dios {
+        height: 30px;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    .gridview {
+        font-size:12px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+}
+
+@media(min-width:992px) {
+
+    .boton_excel {
+        height: 35px;
+        margin-top: -7px;
+        font-size: 16px;
+        padding-top: 3px;
+    }
+
+    .fondo_excel {
+        height: 60px;
+    }
+
+     h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 35px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+    select#DropDownList_Dios {
+    height: 35px;
+}
+
+     #Buscar_Dios {
+        height: 35px;
+        padding-left: 3px;
+        font-size: 14px;
+    }
+
+    #Boton_Buscar_Dios {
+        height: 35px;
+        font-size: 14px;
+        padding-top: 3px;
+    }
+
+    .gridview {
+        font-size:14px;
+    }
+
+    .btn_formulario {
+        height: 35px;
+        margin-top: -3px;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+    .pie_formulario {
+    height: 50px;
+}
+}
+
+@media(min-width:1200px) {
+
+    .boton_excel {
+        height: 40px;
+        margin-top: -4px;
+        font-size: 18px;
+        padding-top: 3px;
+    }
+    
+    .btn_formulario {
+        height: 40px;
+        margin-top: -3px;
+        font-size: 18px;
+        padding: 0px;
+    }
+
+    .fondo_excel {
+        height: 70px;
+    }
+
+     h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 7px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 40px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+   
+
+
+    
+
+     
+
+     .pie_formulario {
+    height: 55px;
+}
+}

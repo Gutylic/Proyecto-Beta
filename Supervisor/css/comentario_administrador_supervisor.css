@@ -1,0 +1,254 @@
+﻿h2.datos_del_administrador {
+        font-size: 12px;
+        margin-top: -1px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 28px;
+    }
+
+.gridview {
+   font-size:10px;
+}
+
+th {
+        text-align: center;
+        padding: 1px;
+        font-weight: normal;
+    }
+
+    .cuerpo_del_panel {
+        padding: 0px;
+    }
+
+h6.pie {
+        margin-top: -10px;
+    }
+
+.panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Comentarios_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Fecha_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    .bloqueado {
+        height: 25px;
+    }
+
+    
+    .pie_formulario {
+        height: 40px;
+    }
+
+    .btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+        
+    .btn_pedido {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+        margin-bottom:8px
+    }
+
+   .form-group {
+     margin-bottom: 0px; 
+} 
+
+.etiqueta_nombre {
+    margin-bottom:4px;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+
+@media(min-width:768px) {
+
+    .gridview {
+   font-size:12px;
+}
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 30px;
+    }
+
+    hr {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+        
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    #Comentarios_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    #Fecha_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    .bloqueado {
+        height: 30px;
+    }   
+
+    .pie_formulario {
+        height: 44px;
+    }
+
+    .btn_formulario {
+        height: 30px;
+        margin-top: -3px;
+        font-size: 12px;
+        padding: 0px;
+    }
+
+
+}
+
+@media(min-width:992px) {
+
+    
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+     h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 35px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+     
+   .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+        font-size: 16px;
+        padding:3px
+    }
+
+    #Comentarios_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+        font-size: 16px;
+        padding:3px
+    }
+
+    #Fecha_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+    }
+
+    .gridview {
+   font-size:15px;
+}
+
+    .bloqueado {
+        height: 35px;
+    }
+
+    
+    .pie_formulario {
+        height: 50px;
+    }
+
+    .btn_formulario {
+        height: 35px;
+        margin-top: -3px;
+        font-size: 13px;
+        padding: 0px;
+    }
+}
+
+@media(min-width:1200px) {
+
+    
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    
+     h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 7px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 40px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+    
+
+   
+}

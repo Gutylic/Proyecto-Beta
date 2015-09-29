@@ -1,0 +1,26 @@
+﻿@media (min-width:768px) {
+
+.col-sm-6.Área_de_Crédito {
+    margin-top: -75px;
+}
+
+.col-sm-6.Área_de_Consumo_Interno {
+    margin-top: -114px;
+}
+
+.col-sm-6.Área_de_Ejercicios {
+    margin-top: 20px;
+}
+
+}
+
+
+
+
+
+
+@media (min-width:992px) {
+    .col-xs-12.col-md-4.Área_de_Compra {
+        margin-top: -115px;
+    }
+}

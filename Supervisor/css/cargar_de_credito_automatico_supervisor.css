@@ -1,0 +1,195 @@
+﻿h2.titulos {
+    font-size: 20px;
+    margin-top:-10px;
+}
+
+.cabezera {
+    height:20px;
+}
+
+hr.linea {
+    margin-top: 0px;
+}
+
+h3.etiqueta {
+    font-size: 15px;
+    margin-top: 2px;
+    float:left;
+}
+
+input#Cuenta_Digital_Supervisor {    
+    padding-left: 3px;
+    margin-top:-2px;
+}
+
+input#PayPal_Supervisor {
+    padding-left: 3px;
+    margin-top:-2px;
+}
+
+input#Conversion_Dolares_A_Pesos {
+    padding-left: 3px;
+    margin-top:-2px;
+}
+
+
+
+input#Boton_Cuenta_Digital_Supervisor {
+    height: 25px;
+    font-size: 12px;
+    padding-top: 3px;
+}
+
+input#Boton_PayPal_Supervisor {
+    height: 25px;
+    font-size: 12px;
+    padding-top: 3px;
+}
+
+input#Button_MercadoPago_Supervisor {
+    height: 25px;
+    font-size: 12px;
+    padding-top: 3px;
+}
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+    h2.titulos {
+        font-size: 22px;
+        margin-top:-10px;
+    }
+
+.cabezera {
+    height:20px;
+}
+
+hr.linea {
+    margin-top: 0px;
+}
+
+h3.etiqueta {
+    font-size: 16px;
+    margin-top: 2px;
+    float:left;
+}
+
+input#Cuenta_Digital_Supervisor {    
+    padding-left: 4px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#PayPal_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+input#Conversion_Dolares_A_Pesos {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#Boton_Cuenta_Digital_Supervisor {
+    height: 30px;
+    font-size: 14px;
+    padding-top: 3px;
+}
+
+input#Boton_PayPal_Supervisor {
+    height: 30px;
+    font-size: 14px;
+    padding-top: 4px;
+}
+
+input#MercadoPago_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#Button_MercadoPago_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    font-size: 14px;
+    height: 30px;
+    padding-top:4px;
+}
+
+
+}
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+
+    h2.titulos {
+        font-size: 24px;
+        margin-top:-10px;
+    }
+
+.cabezera {
+    height:20px;
+}
+
+hr.linea {
+    margin-top: 0px;
+}
+
+h3.etiqueta {
+    font-size: 16px;
+    margin-top: 2px;
+    float:left;
+}
+
+input#Cuenta_Digital_Supervisor {    
+    padding-left: 4px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#PayPal_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+input#Conversion_Dolares_A_Pesos {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#Boton_Cuenta_Digital_Supervisor {
+    height: 35px;
+    font-size: 16px;
+    padding-top: 3px;
+}
+
+input#Boton_PayPal_Supervisor {
+    height: 35px;
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+input#MercadoPago_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    height: 30px;
+}
+
+input#Button_MercadoPago_Supervisor {
+    padding-left: 3px;
+    margin-top: -10px;
+    font-size: 16px;
+    height: 35px;
+    padding-top:4px;
+}
+}

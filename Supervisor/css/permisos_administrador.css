@@ -1,0 +1,72 @@
+﻿
+
+.encabezado_panel.panel-heading.fondo {
+    height: 30px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: -1px;
+}
+
+h3.col-sm-12.control-label.clases {
+    font-size: 12px;
+}
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 35px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 15px;
+    }  
+h3.col-sm-12.control-label.clases {
+    font-size: 14px;
+}
+
+}
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+.encabezado_panel.panel-heading.fondo {
+    height: 40px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 17px;
+    }  
+h3.col-sm-12.control-label.clases {
+    font-size: 16px;
+}
+
+
+}
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+
+.encabezado_panel.panel-heading.fondo {
+    height: 45px;
+}
+
+    h2.datos_del_administrador {
+        font-size: 17px;
+    }  
+h3.col-sm-12.control-label.clases {
+    font-size: 16px;
+}
+
+}

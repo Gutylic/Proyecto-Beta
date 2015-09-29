@@ -1,0 +1,259 @@
+﻿h2.datos_del_administrador {
+    font-size: 12px;
+    margin-top: 1px;
+}
+
+
+.encabezado_panel.panel-heading.fondo {
+    height: 80px;
+    text-align: center;
+
+}
+
+hr {
+    margin-top: 0px;
+}
+
+input#Buscar_Administrador {
+    height: 26px;
+    width: 100%;
+    font-size: 10px;
+    padding-left: 5px;
+
+}
+
+.col-xs-6.buscar_administrador {
+    margin-top: -11px;
+    width: 45%;
+}
+
+input#Boton_Buscar_Administrador {
+    font-size: 10px;
+    width: 100%;
+    padding-left: 8px;
+    height: 26px
+
+}
+
+.col-xs-6.boton_buscar_administrador {
+    margin-top: -11px;
+    margin-left: 12px;
+   
+}
+
+h4 {
+    font-size:10px;
+}
+
+span#Codigo_Administrador {
+    font-size: 10px;
+    padding-top: 12px;
+}
+
+span#Credito_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+span#Vencimiento_Administrador {
+    font-size: 10px;
+    padding-top: 8px;
+}
+
+input#CheckBox_Activacion_Administrador {
+    margin-top: 15px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+
+/*-------------------------------------------------------------media query 768 --------------------------------------------------------------*/
+
+
+@media (min-width:768px) {
+
+h2.datos_del_administrador {
+    font-size: 15px;
+}
+
+.encabezado_panel.panel-heading.fondo {
+    height: 85px;
+}
+
+input#Buscar_Administrador {
+    font-size: 12px;
+    height: 30px;
+    margin-top: -1px;
+}
+
+input#Boton_Buscar_Administrador {
+    font-size: 12px;
+    height: 30px;
+    margin-top: -1px;
+    margin-left: 20px;
+}
+
+h4 {
+    font-size:12px;
+}
+
+span#Codigo_Administrador {
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+span#Credito_Administrador {
+    font-size: 12px;
+    padding-top: 6px;
+}
+
+span#Vencimiento_Administrador {
+    font-size: 12px;
+    padding-top: 6px;
+}
+
+input#CheckBox_Activacion_Administrador {
+    margin-top: 8px;
+    width: 15px;
+    height: 15px;
+}
+
+
+
+
+}
+
+
+/*-------------------------------------------------------------media query 992 --------------------------------------------------------------*/
+
+
+@media (min-width:992px) {
+
+h2.datos_del_administrador {
+    font-size: 17px;
+}
+
+    .encabezado_panel.panel-heading.fondo {
+        height: 90px;
+    }
+
+input#Buscar_Administrador {
+    font-size: 14px;
+    height: 33px;
+    margin-top: -5px;
+}
+
+
+
+input#Boton_Buscar_Administrador {
+    font-size: 14px;
+    height: 33px;
+    margin-top: -5px;
+    margin-left: 32px;
+}
+
+.col-xs-6.buscar_administrador {
+    margin-top: -7px;
+    
+}
+
+.col-xs-6.boton_buscar_administrador {
+    margin-top: -7px;
+    
+   
+}
+
+
+
+h4 {
+    font-size:14px;
+}
+
+span#Codigo_Administrador {
+    font-size: 14px;
+}
+
+span#Credito_Administrador {
+    font-size: 14px;
+}
+
+span#Vencimiento_Administrador {
+    font-size: 14px;
+}
+
+input#CheckBox_Activacion_Administrador {
+   margin-top: 12px;
+   width: 16px;
+    height: 16px;
+}
+
+
+
+}
+
+
+/*-------------------------------------------------------------media query 1200 --------------------------------------------------------------*/
+
+
+@media (min-width:1200px) {
+
+h2.datos_del_administrador {
+    font-size: 19px;
+}
+
+.encabezado_panel.panel-heading.fondo {
+        height: 100px;
+
+}
+
+
+input#Buscar_Administrador {
+    font-size: 16px;
+    height: 35px;
+    margin-top: -7px;
+}
+
+input#Boton_Buscar_Administrador {
+    font-size: 16px;
+    height: 35px;
+    margin-top: -7px;
+    margin-left:42px;
+}
+
+.col-xs-6.buscar_administrador {
+    margin-top: -3px;
+    
+}
+
+.col-xs-6.boton_buscar_administrador {
+    margin-top: -3px;   
+}
+
+h4 {
+    font-size:16px;
+}
+
+span#Codigo_Administrador {
+    font-size: 16px;
+}
+
+span#Credito_Administrador {
+    font-size: 16px;
+}
+
+span#Vencimiento_Administrador {
+    font-size: 16px;
+}
+
+input#CheckBox_Activacion_Administrador {
+    margin-top: 16px;
+    width: 17px;
+    height: 17px;
+}
+
+
+
+
+}

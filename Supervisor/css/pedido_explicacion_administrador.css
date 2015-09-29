@@ -1,0 +1,205 @@
+﻿h2.datos_del_administrador {
+        font-size: 12px;
+        margin-top: -1px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 30px;
+    }
+
+
+td {
+    text-align: center;
+}
+
+    hr {
+        margin-top: -5px;
+        margin-bottom: 5px;
+    }
+
+
+    .gridview {
+        font-size:10px;
+    }
+
+    th {
+        text-align: center;
+        padding: 1px;
+        font-weight: normal;
+    }
+
+    .cuerpo_del_panel {
+        padding: 0px;
+    }
+
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    #Etiqueta_Numero_De_Ejercicio_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+        
+    }
+
+    #Etiqueta_Usuario_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+        
+    }
+
+    #Etiqueta_Fecha_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+        
+    }
+
+#TextBox_Administrador_Administrador {
+        margin-bottom: 3px;
+        height: 25px;
+        
+    }
+
+    .bloqueado {
+        height: 25px;
+    }
+
+
+
+    /*#CheckBox_Realizado_Administrador {
+        margin-top: -25px;
+        margin-left: 72px;
+    }*/
+
+    .pie_formulario {
+        height: 40px;
+    }
+
+    .btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+
+    h6.pie {
+        margin-top: -10px;
+    }
+
+    .btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+        
+    
+
+@media(min-width:768px) {
+
+    
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 83px;
+    }
+
+    hr {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+
+    .gridview {
+        font-size:12px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    .btn_formulario {
+        height: 30px;
+        margin-top: -3px;
+        font-size: 15px;
+        padding: 0px;
+    }
+}
+
+@media(min-width:992px) {
+
+    
+
+     h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 93px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+     
+
+    .gridview {
+        font-size:14px;
+    }
+
+    .btn_formulario {
+        height: 35px;
+        margin-top: -5px;
+        font-size: 13px;
+        padding: 0px;
+    }
+}
+
+@media(min-width:1200px) {
+
+    
+
+     h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 7px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 103px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+     .panel-footer.pie_formulario {
+        height:55px;
+    }
+
+     .btn_formulario {
+        height: 40px;
+        margin-top: -3px;
+        font-size: 15px;
+        
+    }
+
+    
+}

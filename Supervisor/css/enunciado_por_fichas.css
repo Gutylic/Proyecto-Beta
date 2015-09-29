@@ -1,0 +1,138 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#e0e0e0;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+}
+.navbar-default {background-color:#f4f4f4;margin-top:50px;border-width:0;z-index:5;}
+.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li:hover > a {border:0 solid #4285f4;border-bottom-width:2px;font-weight:800;background-color:transparent;}
+.navbar-default .dropdown-menu {background-color:#ffffff;}
+
+
+
+.fondo {
+    color: #fff;
+    background-color: #6D4A70;
+    border-color: #ddd;
+}
+
+div.cerrar_session {
+    text-align:right;
+    margin-top:30px;
+
+}
+
+
+#Volver_A_Consola {
+    font-weight: bolder;
+    font-size: 23px;
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+div.consola_de_control {
+    margin-top:6px;
+
+}
+
+div.ip {
+    margin-top:-27px;
+    color:white;
+}
+
+div.hora {
+    margin-top:-8px;
+    color:white
+}
+
+h1.titulo {
+    color:white;
+}
+
+div.administrador {
+    margin-top:23px;
+}
+
+#Etiqueta_Administrador {
+    color:white;
+    font-size:18px;
+
+}
+
+.fondo_encabezado {
+    background:#6D4A70;
+    height:92px;
+}
+
+hr {border-color:#ececec;}
+
+button {
+ outline: 0;
+}
+
+textarea {
+ resize: none;
+ outline: 0; 
+}
+
+
+
+
+
+.modal-footer {
+ border-width:0;
+}
+.dropdown-menu {
+ background-color:#f4f4f4;
+ border-color:#f0f0f0;
+ border-radius:0;
+ margin-top:-1px;
+}
+/* end theme */
+
+/* template layout*/
+#subnav {
+ position:fixed;
+ width:100%;
+}
+
+@media (max-width: 768px) {
+ #subnav {
+  padding-top: 6px;
+ }
+}
+
+#main {
+ padding-top:120px;
+}
+
+
+h4.datos_del_administrador {
+    text-align:center;
+
+}
+
+.clases {
+    margin-top:20px;
+}
+
+#Etiqueta_Nombre {
+    margin-top:20px;
+    margin-left:23px;
+}
+#Etiqueta_Categoria {
+    margin-top:20px;
+    margin-left:23px;
+}
+#TextBox_Password {
+    padding-left:23px;
+    margin-top:10px;
+    width:100%;
+    height:36px;
+}
+
+div.encabezado_panel {
+    background-color:#4285F4;
+}
+

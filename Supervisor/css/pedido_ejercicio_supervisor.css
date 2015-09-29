@@ -1,0 +1,343 @@
+﻿
+    h2.datos_del_administrador {
+        font-size: 12px;
+        margin-top: -1px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 28px;
+    }
+
+.gridview {
+   font-size:10px;
+}
+
+    #Buscar_Supervisor {
+        height: 25px;
+        padding-left: 2px;
+        font-size: 12px;
+    }
+
+    #Boton_Buscar_Supervisor {
+        height: 25px;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    th {
+        text-align: center;
+        padding: 1px;
+        font-weight: normal;
+    }
+
+    .cuerpo_del_panel {
+        padding: 0px;
+    }
+
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #Password_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    #IP_Supervisor {
+        margin-bottom: 3px;
+        height: 25px;
+    }
+
+    .bloqueado {
+        height: 25px;
+    }
+
+    #CheckBox_Bloqueo_Supervisor {
+        margin-top: -25px;
+        margin-left: 72px;
+    }
+
+    .pie_formulario {
+        height: 40px;
+    }
+
+    .btn_formulario {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+    }
+        
+    .btn_pedido {
+        height: 25px;
+        margin-top: -3px;
+        font-size: 10px;
+        padding: 0px;
+        margin-bottom:8px
+    }
+
+   .form-group {
+     margin-bottom: 0px; 
+} 
+
+.etiqueta_nombre {
+    margin-bottom:4px;
+}
+
+.checkbox_ok {
+    margin-top: -23px;
+    margin-left: 115px;
+}
+
+    h6.pie {
+        margin-top: -10px;
+    }
+
+@media(min-width:768px) {
+
+    .gridview {
+   font-size:12px;
+}
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 3px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 30px;
+    }
+
+    hr {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    
+
+     #Buscar_Supervisor {
+        height: 30px;
+        padding-left: 3px;
+        font-size: 13px;
+    }
+
+    #Boton_Buscar_Supervisor {
+        height: 30px;
+        font-size: 13px;
+        padding-top: 3px;
+    }
+
+    
+    .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    #Password_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    #IP_Supervisor {
+        margin-bottom: 3px;
+        height: 30px;
+    }
+
+    .bloqueado {
+        height: 30px;
+    }
+
+    #CheckBox_Bloqueo_Supervisor {
+        margin-top: -25px;
+        margin-left: 72px;
+    }
+
+    .pie_formulario {
+        height: 44px;
+    }
+
+    .btn_formulario {
+        height: 30px;
+        margin-top: -3px;
+        font-size: 12px;
+        padding: 0px;
+    }
+
+
+}
+
+@media(min-width:992px) {
+
+    .boton_excel {
+        height: 35px;
+        margin-top: -7px;
+        font-size: 16px;
+        padding-top: 3px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    .fondo_excel {
+        height: 60px;
+    }
+
+     h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 35px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+    .gridview {
+   font-size:14px;
+}
+
+     #Buscar_Supervisor {
+        height: 35px;
+        padding-left: 3px;
+        font-size: 16px;
+    }
+
+    #Boton_Buscar_Supervisor {
+        height: 35px;
+        font-size: 16px;
+        padding-top: 3px;
+    }
+
+   .panel-warning > .panel-heading {
+        height: 40px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    #Administrador_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+        font-size: 16px;
+        padding:3px
+    }
+
+    #Password_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+        font-size: 16px;
+        padding:3px
+    }
+
+    #IP_Supervisor {
+        margin-bottom: 3px;
+        height: 35px;
+    }
+
+    .gridview {
+   font-size:15px;
+}
+
+    .bloqueado {
+        height: 35px;
+    }
+
+    #CheckBox_Bloqueo_Supervisor {
+        margin-top: -25px;
+        margin-left: 72px;
+    }
+
+    .pie_formulario {
+        height: 50px;
+    }
+
+    .btn_formulario {
+        height: 35px;
+        margin-top: -3px;
+        font-size: 13px;
+        padding: 0px;
+    }
+}
+
+@media(min-width:1200px) {
+
+    .boton_excel {
+        height: 40px;
+        margin-top: -4px;
+        font-size: 18px;
+        padding-top: 3px;
+    }
+
+    h3.titulo_formulario {
+        font-size: 17px;
+        margin-top: 2px;
+    }
+
+    .fondo_excel {
+        height: 70px;
+    }
+
+     h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 7px;
+    }
+
+    .encabezado_panel.panel-heading.fondo {
+        text-align: center;
+        height: 40px;
+    }
+
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+
+    #Buscar_Supervisor {
+        height: 40px;
+        padding-left: 3px;
+        font-size: 16px;
+    }
+
+    #Boton_Buscar_Supervisor {
+        height: 40px;
+        font-size: 16px;
+        padding-top: 3px;
+    }
+
+   
+}

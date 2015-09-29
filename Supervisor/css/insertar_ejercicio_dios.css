@@ -1,0 +1,93 @@
+﻿.datos_del_administrador {
+    font-size:12px;
+    margin-top:0px
+}
+
+.fondo {
+    height:33px;
+}
+
+#Ejercicio_Dios{
+    font-size: 12px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.boton_formulario {
+    height:30px;
+}
+
+input#Boton_Insertar_Dios {
+    margin-top:-18px;
+    height: 25px;
+    font-size: 10px;
+}
+
+input#Subir_Ejercicio_Dios {
+    float: left;
+    width: 100%;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+.pie_formulario {
+    height:40px;
+}
+
+@media(min-width:768px) {
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    .fondo {
+        height: 50px;
+    }
+
+    #Ejercicio_Dios{
+        font-size: 14px;
+        font-weight: bolder;
+        color: brown;
+    }
+
+    .boton_formulario {
+        height:55px;
+    }
+
+    input#Boton_Insertar_Dios {
+        margin-top:-8px;
+        height: 30px;
+        font-size: 12px;
+    }
+}
+
+@media(min-width:992px) {
+
+    h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .fondo {
+        height: 50px;
+    }
+
+    #Ejercicio_Dios{
+        font-size: 16px;
+        font-weight: bolder;
+        color: brown;
+    }
+
+    .boton_formulario {
+        height:55px;
+    }
+
+    input#Boton_Insertar_Dios {
+        margin-top:-8px;
+        height: 35px;
+        font-size: 16px;
+    }
+}

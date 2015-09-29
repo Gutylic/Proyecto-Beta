@@ -1,0 +1,111 @@
+﻿.formulario {
+    font-size:10px;
+}
+
+.caja_de_texto {
+    font-size: 10px;
+    height: 25px;
+    padding-left: 3px;
+}
+
+.datos_del_administrador {
+    font-size:12px;
+    margin-top:0px
+}
+
+.fondo {
+    height:33px;
+    
+}
+
+input#Boton_Actualizar_Supervisor {
+   
+    height: 25px;
+    font-size: 12px;    
+    margin-top: -1px;
+    padding-top: 3px;
+}
+
+.pie_formulario {
+    height:44px;
+}
+
+h6.pie {
+    margin-top: -10px;
+}
+
+@media(min-width:768px) {
+
+    h2.datos_del_administrador {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    .fondo {
+        height:43px;    
+    }
+
+    .formulario {
+        font-size: 12px;
+        padding-top: 7px;
+    }
+
+    .caja_de_texto {
+        font-size: 12px;
+        height: 30px;
+        padding-left: 3px;
+        margin-bottom: 5px;
+    }
+
+    input#Boton_Actualizar_Supervisor {
+        height: 30px;
+        font-size: 14px;
+        margin-top: -1px;
+        padding-top: 5px;
+    }
+
+    .pie_formulario {
+        height: 50px;
+    }
+}
+
+@media(min-width:992px) {
+
+    h2.datos_del_administrador {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .formulario {
+        font-size: 14px;
+        padding-top: 7px;
+    }
+
+    .caja_de_texto {
+        font-size: 14px;
+        height: 35px;
+        padding-left: 3px;
+        margin-bottom: 5px;
+    }
+
+    input#Boton_Actualizar_Supervisor {
+        height: 36px;
+        font-size: 16px;
+        margin-top: -1px;
+        padding-top: 5px;
+    }
+
+    .pie_formulario {
+        height: 54px;
+    }
+}
+
+@media(min-width:1022px) {
+
+    h2.datos_del_administrador {
+        font-size: 18px;
+        margin-top: 4px;
+    }
+
+    
+}
